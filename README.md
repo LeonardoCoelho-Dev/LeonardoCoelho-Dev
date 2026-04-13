@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leonardo!
 
-<!--
-**LeonardoCoelho-Dev/LeonardoCoelho-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas da Informação  
+💻 Focado em desenvolvimento backend com Java e APIs  
+Me tornar um desenvolvedor backend e conquistar minha primeira oportunidade como desenvolvedor 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- Java  
+- APIs REST  
+- HttpClient  
+- JSON / Gson  
+- Git e GitHub  
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 [Library Management Console](https://github.com/LeonardoCoelho-Dev/library-management-console)  
+Sistema de gerenciamento de livros no console com integração à Google Books API  
+
+🔹 [GitHub User Search Console](https://github.com/LeonardoCoelho-Dev/github-user-search-console)  
+Aplicação que consome a API do GitHub para buscar usuários  
+
+🔹 [Jogo da Forca em Java](https://github.com/LeonardoCoelho-Dev/jogo-da-forca-java)  
+Projeto clássico para prática de lógica e estrutura  
+
+---
+
+## 📚 Atualmente estudando
+
+- Java e Orientação a Objetos  
+- Desenvolvimento backend  
+- Consumo de APIs  
+- Estrutura de dados  
+
+---
+
+## 📈 Objetivo
+
+Me tornar um desenvolvedor backend e conquistar minha primeira oportunidade na área 🚀  
+
+---
+
+## 📫 Contato
+
+📧 email - leleo_scoelho@hotmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-santos-coelho03/)
