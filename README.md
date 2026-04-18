@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Leonardo!
+<h1 align="center">Olá, eu sou o Leonardo 👋</h1>
 
-🎓 Estudante de Sistemas da Informação  
-💻 Focado em desenvolvimento backend com Java e APIs  
-Me tornar um desenvolvedor backend e conquistar minha primeira oportunidade como desenvolvedor 🚀  
+<p align="center">
+  Estudante de Sistemas da Informação • Focado em Java e backend • Construindo projetos para portfólio
+</p> 
 
 ---
 
