@@ -8,11 +8,9 @@ Me tornar um desenvolvedor backend e conquistar minha primeira oportunidade como
 
 ## 🛠️ Tecnologias
 
-- Java  
-- APIs REST  
-- HttpClient  
-- JSON / Gson  
-- Git e GitHub  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,postman,idea" />
+</p>  
 
 ---
 
