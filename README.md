@@ -16,6 +16,9 @@
 
 ## 📌 Projetos em destaque
 
+🔹 [Cantinho Doce Coelho API](https://github.com/LeonardoCoelho-Dev/cantinho-doce-coelho-api)  
+API REST em Spring Boot para gerenciamento de doces, com CRUD completo, DTOs, paginação, exclusão lógica e Bean Validation. Conta com tratamento centralizado de erros, persistência em MySQL (JPA/Hibernate) e migrations com Flyway  
+
 🔹 [Library API REST](https://github.com/LeonardoCoelho-Dev/library-api-rest)  
 API REST desenvolvida com Spring Boot para gerenciamento de livros, aplicando conceitos de arquitetura backend, persistência de dados e boas práticas de desenvolvimento  
 
